@@ -16,7 +16,7 @@ Este proyecto es un backend API RESTful construido utilizando **.NET 9**. Propor
 Primero, clona el repositorio en tu máquina local:
 
 ```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
+git clone https://github.com/bailador93/netcore_challenge_cycle_2_arquitectura_hexagonal.git api-productos
 cd tu_repositorio
 ```
 
